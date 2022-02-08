@@ -1,24 +1,46 @@
-# HelloMicroverse
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This is a webpage with a single heading.
+# Hello Microverse
 
-Built with:
-HTML and CSS
-Visual studios
+> Description the project.
+In this project, you will set up a "Hello world" repository. No complex coding is required for this exercise. Your goal here is to master all of the tools and best practices you learned about in previous steps. You will be using them in all Microverse projects and most likely in your future job as well, so it is important to know them!
 
-Author:
-Emily Robertson
-Github: @emyrue
-Twitter: @EmyrueRobertson
-LinkedIn: Emily Robertson
+## Built With
 
-Contributions:
+- HTML
+- CSS
+- Linter
+
+## Authors
+
+👤 **Author1**
+
+- GitHub: [@githubhandle](https://github.com/emyrue)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn]()
+
+👤 **Author2**
+
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/EmyrueRobertson)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/emily-robertson-70a2bb22a/)
+
+## 🤝 Contributing
+
 Contributions, issues, and feature requests are welcome!
-Feel free to check the issues page.
 
-Show your support:
-Let me know if you like this project!
+Feel free to check the [issues page](https://github.com/emyrue/HelloMicroverse2/issues).
 
-Acknowledgements:
-Microverse curriculum
-My coding partners, Amrendra Kind and Dangelo Arrivillaga
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
